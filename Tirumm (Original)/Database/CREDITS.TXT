@@ -1,0 +1,31 @@
+TIRUMM: The Tile Rummy Game
+Version 2001
+
+---------------------
+
+The main purpose of this software
+product is that it can give relaxation
+and enjoyment to those who are taking
+their spare time.
+
+---------------------
+
+Programming & Design: 
+Walter A. Narvasa Computer Systems
+WANCOM SYSTEMS
+3511 Hilario St. Palanan, 
+Makati City, Philippines
+Tel.# 916-68-47/729-28-37
+Cell.# 0919-4266602/0917-9837805
+
+---------------------
+
+System Analyst/Programmer:
+Walter A. Narvasa
+
+---------------------
+
+Copyright (c), 2001
+All rights reserved
+
+---------------------
